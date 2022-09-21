@@ -1,0 +1,41 @@
+.Product__Text__Validate{
+    color: red;
+    line-height: 40px;
+}
+.Product__Text__Mess{
+    line-height: 30px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.Pro__tag__hidden{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.Pro__Button{
+    height: 120px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+table{
+    width: 100%;
+}
+.Pro__title__table th {
+    width: 33%;
+    height: 50px;
+    /* background-color: white; */
+    padding: 0;
+    margin: 0;
+}
+
+.Pro__title__table {
+    background-color: rgb(228, 230, 230);
+    border-bottom: 1px solid rgb(177, 177, 177);
+    width: 100%;
+}
+.Pro__body__table td {
+    text-align: center;
+    height: 50px;
+}
